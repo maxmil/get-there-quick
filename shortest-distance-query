@@ -1,0 +1,5 @@
+MATCH (from:Segment { name:"Hairspray Chicane" }), (to:Segment { name: "End"}) , path = (from)-[:CONNECTED_TO*]->(to)
+RETURN path AS shortestPath,
+    reduce(distance = 0, r in relationships(path) | distance+r.distance) AS totalDistance
+    ORDER BY totalDistance ASC
+    LIMIT 1

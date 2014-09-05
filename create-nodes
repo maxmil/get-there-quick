@@ -1,0 +1,156 @@
+CREATE (Segment6943047:Segment{ name: "Waterloo Bridge South for the early exit onto Upper Ground ramp", mapsLink: "http://maps.google.com/?q=51.511134,-0.118966"})
+CREATE (Segment947154:Segment{ name: "Waterloo Bridge Sprint (S)", mapsLink: "http://maps.google.com/?q=51.51006289041251,-0.11813926196474858"})
+CREATE (Segment1551457:Segment{ name: "New Kent Road Sprint", mapsLink: "http://maps.google.com/?q=51.49426403333334,-0.09474673333333333"})
+CREATE (Segment7624467:Segment{ name: "Webber St to Blackheath", mapsLink: "http://maps.google.com/?q=51.502186,-0.109411"})
+CREATE (Segment1604750:Segment{ name: "Strand to Waterloo", mapsLink: "http://maps.google.com/?q=51.51123470913014,-0.1190184149848617"})
+CREATE (Segment7328399:Segment{ name: "Waterloo Bridge (S)", mapsLink: "http://maps.google.com/?q=51.509748,-0.117791"})
+CREATE (Segment3614548:Segment{ name: "Flyover - The FULL length, not just a sprint", mapsLink: "http://maps.google.com/?q=51.4940902,-0.09112232"})
+CREATE (Segment2839141:Segment{ name: "Lights To Lights", mapsLink: "http://maps.google.com/?q=51.494261,-0.091475"})
+CREATE (Segment6727632:Segment{ name: "The NKR", mapsLink: "http://maps.google.com/?q=51.494881,-0.097804"})
+CREATE (Segment7383101:Segment{ name: "skinner new kent rd push", mapsLink: "http://maps.google.com/?q=51.494321,-0.090565"})
+CREATE (Segment7179933:Segment{ name: "Just the Old Kent Road", mapsLink: "http://maps.google.com/?q=51.493777,-0.084628"})
+CREATE (Segment3813820:Segment{ name: "Down the Hill Black Cab Dodge", mapsLink: "http://maps.google.com/?q=51.51387632,-0.12329908"})
+CREATE (Segment764008:Segment{ name: "Waterloo South", mapsLink: "http://maps.google.com/?q=51.51127587,-0.11895014"})
+CREATE (Segment1481903:Segment{ name: "Deptford to Greenwich", mapsLink: "http://maps.google.com/?q=51.474442896433175,-0.020822659134864807"})
+CREATE (Segment7328377:Segment{ name: "Lancaster Place (down)", mapsLink: "http://maps.google.com/?q=51.51123,-0.119001"})
+CREATE (Segment1957945:Segment{ name: "Waterloo Approach", mapsLink: "http://maps.google.com/?q=51.50520980358124,-0.11356472969055176"})
+CREATE (Segment2300859:Segment{ name: "Webber Street E.B.", mapsLink: "http://maps.google.com/?q=51.5023290677392,-0.10936273945904043"})
+CREATE (Segment781596:Segment{ name: "Waterloo Bridge South", mapsLink: "http://maps.google.com/?q=51.510617,-0.118277"})
+CREATE (Segment3607647:Segment{ name: "Waterloo Bridge South Sprint (to roundabout, not through it)", mapsLink: "http://maps.google.com/?q=51.510908575728536,-0.11877726763486862"})
+CREATE (Segment1489092:Segment{ name: "new cross deptford sprint", mapsLink: "http://maps.google.com/?q=51.47572159767151,-0.03666043281555176"})
+CREATE (Segment1870241:Segment{ name: "final dash ", mapsLink: "http://maps.google.com/?q=51.482991320996405,-0.06370576169993634"})
+CREATE (Segment2295606:Segment{ name: "Old Kent road", mapsLink: "http://maps.google.com/?q=51.49367206232094,-0.0847478489321555"})
+CREATE (Segment4955962:Segment{ name: "Deals Gateway to Blackheath Hill", mapsLink: "http://maps.google.com/?q=51.474024,-0.020395"})
+CREATE (Segment2283043:Segment{ name: "Hairspray Chicane", mapsLink: "http://maps.google.com/?q=51.51658006,-0.12675142"})
+CREATE (Segment1779643:Segment{ name: "Waterloo to St Georges Circus", mapsLink: "http://maps.google.com/?q=51.50478115931598,-0.11277006046852128"})
+CREATE (Segment7717410:Segment{ name: "Rolling along", mapsLink: "http://maps.google.com/?q=51.49044,-0.076065"})
+CREATE (Segment1961577:Segment{ name: "ORNC Sprint", mapsLink: "http://maps.google.com/?q=51.48133437149227,-0.007675141096115112"})
+CREATE (Segment837897:Segment{ name: "Down The Old Kent Road Mate", mapsLink: "http://maps.google.com/?q=51.49256570264697,-0.083251241594553"})
+CREATE (Segment3608011:Segment{ name: "Down Old Kent Road", mapsLink: "http://maps.google.com/?q=51.49557878,-0.10025071"})
+CREATE (Segment4109427:Segment{ name: "To the Clock Tower!", mapsLink: "http://maps.google.com/?q=51.474587,-0.020852"})
+CREATE (Segment3395642:Segment{ name: "Old Kent Road to Peckham Park Road", mapsLink: "http://maps.google.com/?q=51.494235,-0.092238"})
+CREATE (Segment1650032:Segment{ name: "Creek sprint", mapsLink: "http://maps.google.com/?q=51.48071528333333,-0.022959733333333333"})
+CREATE (Segment3232149:Segment{ name: "New Kent Road to Old Kent Road", mapsLink: "http://maps.google.com/?q=51.49505393,-0.09882733"})
+CREATE (Segment2700738:Segment{ name: "Mandela Mash, South-East", mapsLink: "http://maps.google.com/?q=51.492630955811116,-0.08089148439474486"})
+CREATE (Segment4936129:Segment{ name: "Jekyll and Hyde", mapsLink: "http://maps.google.com/?q=51.473,-0.015676"})
+CREATE (Segment4012421:Segment{ name: "New Kent Flyover Climb", mapsLink: "http://maps.google.com/?q=51.494181,-0.090295"})
+CREATE (Segment3634221:Segment{ name: "Wid's flyover", mapsLink: "http://maps.google.com/?q=51.49473728612065,-0.0850454717874527"})
+CREATE (Segment5061369:Segment{ name: "New Cross Gate to New Cross Station", mapsLink: "http://maps.google.com/?q=51.474915,-0.040264"})
+CREATE (Segment4973575:Segment{ name: "Mind the Bus, Prey for the Lights", mapsLink: "http://maps.google.com/?q=51.48892,-0.077921"})
+CREATE (Segment5987218:Segment{ name: "Sprint towards the light", mapsLink: "http://maps.google.com/?q=51.480911,-0.022791"})
+CREATE (Segment6900301:Segment{ name: "WME Evening League 2.0", mapsLink: "http://maps.google.com/?q=51.516804,-0.126866"})
+CREATE (Segment868018:Segment{ name: "Bricklayer's Arms Flyover", mapsLink: "http://maps.google.com/?q=51.49420491666667,-0.08971631666666666"})
+CREATE (Segment5987246:Segment{ name: "Romney Road towards North Greenwich", mapsLink: "http://maps.google.com/?q=51.483233,-0.003287"})
+CREATE (Segment972405:Segment{ name: "Surrey Canal Sprint W>E", mapsLink: "http://maps.google.com/?q=51.4847205,-0.0535107"})
+CREATE (Segment6394857:Segment{ name: "Office to Great Dover Street", mapsLink: "http://maps.google.com/?q=51.49972,-0.095308"})
+CREATE (Segment5374521:Segment{ name: "Greenwich Magistrates", mapsLink: "http://maps.google.com/?q=51.474237,-0.020921"})
+CREATE (Segment3608000:Segment{ name: "Waterloo Bridge to Lower Marsh Downhill Zoom", mapsLink: "http://maps.google.com/?q=51.50950414,-0.11784911"})
+CREATE (Segment8067027:Segment{ name: "New Cross Gate - Deptford Bridge Lights", mapsLink: "http://maps.google.com/?q=51.474807,-0.041284"})
+CREATE (Segment5289837:Segment{ name: "Deal with It", mapsLink: "http://maps.google.com/?q=51.473741,-0.019916"})
+CREATE (Segment2378219:Segment{ name: "New Cross to Deptford", mapsLink: "http://maps.google.com/?q=51.47443220950663,-0.04611312411725521"})
+CREATE (Segment6718569:Segment{ name: "The Elephant and the Bridge", mapsLink: "http://maps.google.com/?q=51.509863,-0.118307"})
+CREATE (Segment6219834:Segment{ name: "Rolls Road Stretch", mapsLink: "http://maps.google.com/?q=51.490246,-0.075893"})
+CREATE (Segment5596239:Segment{ name: "Down to the bridge", mapsLink: "http://maps.google.com/?q=51.475921,-0.032567"})
+CREATE (Segment661495:Segment{ name: "Blackheath Hill", mapsLink: "http://maps.google.com/?q=51.472525,-0.013389"})
+CREATE (Segment998704:Segment{ name: "Greenwich Ahoy", mapsLink: "http://maps.google.com/?q=51.4812569,-0.0077759"})
+CREATE (Segment3608004:Segment{ name: "Theatreland Black Cab Dodge", mapsLink: "http://maps.google.com/?q=51.51472004,-0.12499853"})
+CREATE (Segment1608037:Segment{ name: "New Kent pedestrian dodging", mapsLink: "http://maps.google.com/?q=51.49495475835139,-0.09906344256126903"})
+CREATE (Segment5943617:Segment{ name: "Webber St Wobble", mapsLink: "http://maps.google.com/?q=51.50227,-0.109223"})
+CREATE (Segment1784452:Segment{ name: "Old Kent Road Southbound Sprint", mapsLink: "http://maps.google.com/?q=51.49358452297747,-0.08431398309767246"})
+CREATE (Segment1224825:Segment{ name: "New Kent Road Eastbound", mapsLink: "http://maps.google.com/?q=51.49513743817806,-0.09926754981279373"})
+CREATE (Segment1253903:Segment{ name: "New Cross Station Sprint (East)", mapsLink: "http://maps.google.com/?q=51.47441544570029,-0.0454906839877367"})
+CREATE (Segment6015032:Segment{ name: "NKR OKR Flyover", mapsLink: "http://maps.google.com/?q=51.493831,-0.084943"})
+CREATE (Segment5302678:Segment{ name: "Attack The Castle", mapsLink: "http://maps.google.com/?q=51.495767,-0.100978"})
+CREATE (Segment2582258:Segment{ name: "Waterloo to Borough Road", mapsLink: "http://maps.google.com/?q=51.50162972509861,-0.10934628546237946"})
+CREATE (Segment6651577:Segment{ name: "lucky cyril", mapsLink: "http://maps.google.com/?q=51.481294,-0.008067"})
+CREATE (Segment1647759:Segment{ name: "Greenwich Park Gates to Maze Hill Lights", mapsLink: "http://maps.google.com/?q=51.4730592,0.00344894"})
+CREATE (SegmentEnd:Segment{ name: "End", mapsLink: "http://maps.google.com/?q=51.4842511,0.0122085"})
+CREATE
+	(Segment6943047)-[:CONNECTED_TO { distance: 86 }]->(Segment3607647),
+	(Segment947154)-[:CONNECTED_TO { distance: 65 }]->(Segment7328399),
+	(Segment1551457)-[:CONNECTED_TO { distance: 76 }]->(Segment3395642),
+	(Segment7624467)-[:CONNECTED_TO { distance: 1666 }]->(Segment6394857),
+	(Segment1604750)-[:CONNECTED_TO { distance: 104 }]->(Segment6943047),
+	(Segment1604750)-[:CONNECTED_TO { distance: 104 }]->(Segment7328377),
+	(Segment1604750)-[:CONNECTED_TO { distance: 104 }]->(Segment764008),
+	(Segment7328399)-[:CONNECTED_TO { distance: 69 }]->(Segment2300859),
+	(Segment7328399)-[:CONNECTED_TO { distance: 69 }]->(Segment3608000),
+	(Segment3614548)-[:CONNECTED_TO { distance: 103 }]->(Segment7383101),
+	(Segment2839141)-[:CONNECTED_TO { distance: 43 }]->(Segment3614548),
+	(Segment6727632)-[:CONNECTED_TO { distance: 153 }]->(Segment1551457),
+	(Segment7383101)-[:CONNECTED_TO { distance: 33 }]->(Segment4012421),
+	(Segment7179933)-[:CONNECTED_TO { distance: 451 }]->(Segment2295606),
+	(Segment3813820)-[:CONNECTED_TO { distance: 135 }]->(Segment7328377),
+	(Segment3813820)-[:CONNECTED_TO { distance: 135 }]->(Segment1604750),
+	(Segment3813820)-[:CONNECTED_TO { distance: 135 }]->(Segment764008),
+	(Segment764008)-[:CONNECTED_TO { distance: 109 }]->(Segment6943047),
+	(Segment764008)-[:CONNECTED_TO { distance: 109 }]->(Segment7328377),
+	(Segment764008)-[:CONNECTED_TO { distance: 109 }]->(Segment1604750),
+	(Segment1481903)-[:CONNECTED_TO { distance: 160 }]->(Segment4109427),
+	(Segment7328377)-[:CONNECTED_TO { distance: 21 }]->(Segment6943047),
+	(Segment7328377)-[:CONNECTED_TO { distance: 21 }]->(Segment1604750),
+	(Segment7328377)-[:CONNECTED_TO { distance: 21 }]->(Segment764008),
+	(Segment1957945)-[:CONNECTED_TO { distance: 74 }]->(Segment2300859),
+	(Segment1957945)-[:CONNECTED_TO { distance: 74 }]->(Segment1779643),
+	(Segment2300859)-[:CONNECTED_TO { distance: 138 }]->(Segment6394857),
+	(Segment2300859)-[:CONNECTED_TO { distance: 138 }]->(Segment5943617),
+	(Segment781596)-[:CONNECTED_TO { distance: 68 }]->(Segment947154),
+	(Segment781596)-[:CONNECTED_TO { distance: 68 }]->(Segment6718569),
+	(Segment3607647)-[:CONNECTED_TO { distance: 90 }]->(Segment781596),
+	(Segment1489092)-[:CONNECTED_TO { distance: 109 }]->(Segment5596239),
+	(Segment1870241)-[:CONNECTED_TO { distance: 165 }]->(Segment2378219),
+	(Segment2295606)-[:CONNECTED_TO { distance: 55 }]->(Segment1784452),
+	(Segment4955962)-[:CONNECTED_TO { distance: 251 }]->(Segment5289837),
+	(Segment2283043)-[:CONNECTED_TO { distance: 80 }]->(Segment6900301),
+	(Segment2283043)-[:CONNECTED_TO { distance: 80 }]->(Segment3608004),
+	(Segment1779643)-[:CONNECTED_TO { distance: 113 }]->(Segment2582258),
+	(Segment7717410)-[:CONNECTED_TO { distance: 117 }]->(Segment6219834),
+	(Segment1961577)-[:CONNECTED_TO { distance: 39 }]->(Segment5987246),
+	(Segment1961577)-[:CONNECTED_TO { distance: 39 }]->(SegmentEnd),
+	(Segment837897)-[:CONNECTED_TO { distance: 567 }]->(Segment4973575),
+	(Segment3608011)-[:CONNECTED_TO { distance: 604 }]->(Segment1224825),
+	(Segment4109427)-[:CONNECTED_TO { distance: 135 }]->(Segment6651577),
+	(Segment3395642)-[:CONNECTED_TO { distance: 391 }]->(Segment2839141),
+	(Segment1650032)-[:CONNECTED_TO { distance: 151 }]->(Segment5987218),
+	(Segment3232149)-[:CONNECTED_TO { distance: 459 }]->(Segment6727632),
+	(Segment2700738)-[:CONNECTED_TO { distance: 63 }]->(Segment7717410),
+	(Segment2700738)-[:CONNECTED_TO { distance: 63 }]->(Segment6219834),
+	(Segment4936129)-[:CONNECTED_TO { distance: 223 }]->(Segment661495),
+	(Segment4012421)-[:CONNECTED_TO { distance: 43 }]->(Segment868018),
+	(Segment3634221)-[:CONNECTED_TO { distance: 45 }]->(Segment2700738),
+	(Segment3634221)-[:CONNECTED_TO { distance: 45 }]->(Segment6015032),
+	(Segment5061369)-[:CONNECTED_TO { distance: 85 }]->(Segment1489092),
+	(Segment4973575)-[:CONNECTED_TO { distance: 82 }]->(Segment1870241),
+	(Segment4973575)-[:CONNECTED_TO { distance: 82 }]->(Segment972405),
+	(Segment5987218)-[:CONNECTED_TO { distance: 82 }]->(Segment6651577),
+	(Segment6900301)-[:CONNECTED_TO { distance: 419 }]->(Segment2283043),
+	(Segment6900301)-[:CONNECTED_TO { distance: 419 }]->(Segment3608004),
+	(Segment868018)-[:CONNECTED_TO { distance: 55 }]->(Segment6015032),
+	(Segment5987246)-[:CONNECTED_TO { distance: 155 }]->(SegmentEnd),
+	(Segment972405)-[:CONNECTED_TO { distance: 128 }]->(Segment1650032),
+	(Segment6394857)-[:CONNECTED_TO { distance: 77 }]->(Segment3634221),
+	(Segment5374521)-[:CONNECTED_TO { distance: 61 }]->(Segment4955962),
+	(Segment3608000)-[:CONNECTED_TO { distance: 135 }]->(Segment1957945),
+	(Segment8067027)-[:CONNECTED_TO { distance: 179 }]->(Segment5061369),
+	(Segment5289837)-[:CONNECTED_TO { distance: 222 }]->(Segment4936129),
+	(Segment2378219)-[:CONNECTED_TO { distance: 310 }]->(Segment1253903),
+	(Segment6718569)-[:CONNECTED_TO { distance: 320 }]->(Segment947154),
+	(Segment6219834)-[:CONNECTED_TO { distance: 139 }]->(Segment972405),
+	(Segment5596239)-[:CONNECTED_TO { distance: 92 }]->(Segment5374521),
+	(Segment5596239)-[:CONNECTED_TO { distance: 92 }]->(Segment1481903),
+	(Segment661495)-[:CONNECTED_TO { distance: 126 }]->(Segment1647759),
+	(Segment998704)-[:CONNECTED_TO { distance: 58 }]->(Segment1961577),
+	(Segment3608004)-[:CONNECTED_TO { distance: 194 }]->(Segment3813820),
+	(Segment1608037)-[:CONNECTED_TO { distance: 93 }]->(Segment3232149),
+	(Segment5943617)-[:CONNECTED_TO { distance: 49 }]->(Segment6394857),
+	(Segment5943617)-[:CONNECTED_TO { distance: 49 }]->(Segment7624467),
+	(Segment1784452)-[:CONNECTED_TO { distance: 103 }]->(Segment4973575),
+	(Segment1784452)-[:CONNECTED_TO { distance: 103 }]->(Segment837897),
+	(Segment1224825)-[:CONNECTED_TO { distance: 101 }]->(Segment1608037),
+	(Segment1253903)-[:CONNECTED_TO { distance: 115 }]->(Segment8067027),
+	(Segment6015032)-[:CONNECTED_TO { distance: 62 }]->(Segment2295606),
+	(Segment6015032)-[:CONNECTED_TO { distance: 62 }]->(Segment7179933),
+	(Segment5302678)-[:CONNECTED_TO { distance: 62 }]->(Segment3608011),
+	(Segment2582258)-[:CONNECTED_TO { distance: 47 }]->(Segment5302678),
+	(Segment6651577)-[:CONNECTED_TO { distance: 63 }]->(Segment998704),
+	(Segment1647759)-[:CONNECTED_TO { distance: 69 }]->(SegmentEnd)

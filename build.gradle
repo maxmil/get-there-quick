@@ -1,0 +1,42 @@
+apply plugin: 'java'
+apply plugin: 'idea'
+apply plugin: 'ivy-publish'
+
+project.ext {
+    ivyArtifactPattern = '[organisation]/[module]/[module]-[revision]/[artifact]-[revision].[ext]'
+    ivyPattern = '[organisation]/[module]/[module]-[revision]/ivy-[revision].xml'
+}
+
+repositories {
+    mavenCentral()
+
+    ivy {
+        name "localIvy"
+        url "file://${System.getProperty("user.home")}/.ivy2/local"
+        layout "pattern", {
+            artifact project.ivyArtifactPattern
+            ivy project.ivyArtifactPattern
+        }
+    }
+}
+
+dependencies {
+    compile 'org.slf4j:slf4j-api:1.7.5'
+    compile 'org.strava:jstrava:1.0-SNAPSHOT'
+    compile 'ch.qos.logback:logback-classic:1.1.2'
+    testCompile 'junit:junit:4.11'
+}
+
+group = 'org.strava'
+version = '1.0-SNAPSHOT'
+uploadArchives {
+    repositories {
+        add project.repositories.localIvy
+    }
+}
+
+defaultTasks 'clean', 'build', 'uploadArchives'
+
+repositories {
+    mavenCentral()
+}
